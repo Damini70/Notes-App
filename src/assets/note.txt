@@ -1,0 +1,24 @@
+🟢 Things I completed:
+- Fully functional Notes app using React, Redux Toolkit, and TypeScript
+- Add, edit, and delete top-level notes
+- Add, edit, and delete subnotes under each note
+- Search feature that filters notes and subnotes by keywords
+- Highlighted search terms inside notes and subnotes
+- Modular component-based architecture
+- Clean UI using Tailwind CSS
+- Responsive design for mobile and desktop
+- Add persistent storage using localStorage 
+
+
+🕒 With more time, I would:
+- Add animations (e.g., smooth transitions for editing/adding notes) using Framer Motion
+- Improve accessibility by:
+  → Adding keyboard navigation
+  → Ensuring better contrast and focus indicators
+
+🌐 SEO / Accessibility / Performance:
+- App uses semantic HTML for better accessibility
+- Responsive layout using Tailwind ensures usability across screen sizes
+- Search is performant for medium datasets (client-side filtering)
+- Highlights using <mark> tag for better UX
+- UI components reuse state efficiently via Redux and local component states

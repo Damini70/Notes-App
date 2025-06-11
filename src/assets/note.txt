@@ -8,7 +8,9 @@
 - Clean UI using Tailwind CSS
 - Responsive design for mobile and desktop
 - Add persistent storage using localStorage 
-
+- Use TypeScript for strong typing
+- Test on mobile & desktop
+- Make sure the final UI is clean and intuitive
 
 🕒 With more time, I would:
 - Add animations (e.g., smooth transitions for editing/adding notes) using Framer Motion

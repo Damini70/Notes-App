@@ -5,6 +5,7 @@ import Movie from './Movie'
 import Home from './Home'
 import InfiniteScroll from './InfiniteScroll'
 import User from "../components/User"
+import CarouselAnimate from './CarouselAnimate'
 
 export default function Routing() {
   return (
@@ -15,6 +16,7 @@ export default function Routing() {
         <Route path="/pagination" element={<Pagination/>}/>
         <Route path="/infinite" element={<InfiniteScroll/>}/>
         <Route path="/users" element={(<User/>)}/>
+        <Route path="/carousel" element={(<CarouselAnimate/>)}/>
       </Routes>
     </div>
   )
